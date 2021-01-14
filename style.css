@@ -1,0 +1,55 @@
+font-family: 'Roboto Condensed',
+sans-serif;
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-item {
+    color: darkgray;
+    font-weight: 700;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+h2 {
+    color: darkslateblue;
+    font-size: 40px;
+}
+p {
+    color: darkslateblue;
+   
+   
+}
+.tomato {
+    color: orange;
+    
+}
+.color {
+    color: #201a6d;
+}
+.shoes-card {
+    border: 0;
+}
+.shoes-card-footer {
+    background-color: white;
+    border: 0;
+    padding: 5px;
+}
+.footer-color {
+    color: goldenrod;
+}
+.carousel-part{
+    border: 0;
+}
+.last-part img {
+    width: 40%;
+}
+.last-div img {
+    width: 100%;
+}
+h5 {
+    color: darkslateblue;
+    font-size: 30px;
+}
